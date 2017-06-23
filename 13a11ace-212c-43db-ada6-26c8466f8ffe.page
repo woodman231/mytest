@@ -1,4 +1,10 @@
 {
 	"id":"13a11ace-212c-43db-ada6-26c8466f8ffe",
-	"Title":"Test2"
+	"Title":"Test2",
+	"Conditions":[
+		{
+			"id":1,
+			"Title":"Tada"
+		}
+	]
 }
