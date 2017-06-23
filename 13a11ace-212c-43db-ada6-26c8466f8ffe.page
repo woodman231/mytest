@@ -1,30 +1,30 @@
 {
-	"id":"13a11ace-212c-43db-ada6-26c8466f8ffe",
-	"Title":"Test2",
-	"Conditions":[
+	"id": "13a11ace-212c-43db-ada6-26c8466f8ffe",
+	"Title": "Test2",
+	"Conditions": [
 		{
-			"id":1,
-			"Title":"Tada"
+			"id": 1,
+			"Title": "Tada"
 		},
 		{
-			"id":2,
-			"Title":"Tada2"
+			"id": 1,
+			"Title": "Tada"
 		},
 		{
-			"id":3,
-			"Title":"Tada3"
+			"id": 2,
+			"Title": "Tada2"
 		},
 		{
-			"id":4,
-			"Title":"Tada4"
+			"id": 3,
+			"Title": "Tada3"
 		},
 		{
-			"id":5,
-			"Title":"Tada5"
+			"id": 4,
+			"Title": "Tada4"
 		},
 		{
-			"id":6,
-			"Title":"Tada6"
+			"id": 5,
+			"Title": "Tada5"
 		}
 	]
 }
