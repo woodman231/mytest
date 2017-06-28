@@ -1,34 +1,40 @@
 {
-	"users": [
-		{
-			"id":"589fef8a-d78e-43fb-b3c9-b27333efe9bf",
-			"name":"Sean",
-			"active":"true",
-			"modified":"1498664816"
-		},
-		{
-			"id":"82ec8f6e-3abf-4176-a0a0-4b63c38dad16",
-			"name":"Amber",
-			"active":"true",
-			"modified":"1498664981"
-		},
-		{
-			"id":"f1621037-daaa-47a5-8906-42a775292a7c",
-			"name":"Chantell",
-			"active":"true",
-			"modified":"1498666147"
-		},
-		{
-			"id":"3bcb9d3a-118e-4406-8661-087a12063a18",
-			"name":"Chris",
-			"active":"true",
-			"modified":"1498669465"
-		},
-		{
-			"id":"22e94c84-7fa9-4130-a090-fe121a00949e",
-			"name":"Curtis",
-			"active":"true",
-			"modified":"1498671179"
-		}
-	]
+  "users": [
+    {
+      "id": "589fef8a-d78e-43fb-b3c9-b27333efe9bf",
+      "name": "Sean",
+      "active": "true",
+      "modified": "1498664816"
+    },
+    {
+      "id": "82ec8f6e-3abf-4176-a0a0-4b63c38dad16",
+      "name": "Amber",
+      "active": "true",
+      "modified": "1498664981"
+    },
+    {
+      "id": "f1621037-daaa-47a5-8906-42a775292a7c",
+      "name": "Chantell",
+      "active": "true",
+      "modified": "1498666147"
+    },
+    {
+      "id": "3bcb9d3a-118e-4406-8661-087a12063a18",
+      "name": "Chris",
+      "active": "true",
+      "modified": "1498669465"
+    },
+    {
+      "id": "fcd80b43-80e2-467f-8103-b7bebb056cb5",
+      "name": "Cameron",
+      "active": "true",
+      "modified": "1498671261"
+    },
+    {
+      "id": "22e94c84-7fa9-4130-a090-fe121a00949e",
+      "name": "Curtis",
+      "active": "true",
+      "modified": "1498671179"
+    }
+  ]
 }
