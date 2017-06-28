@@ -4,7 +4,14 @@
       "id": "589fef8a-d78e-43fb-b3c9-b27333efe9bf",
       "name": "Sean",
       "active": "true",
-      "modified": "1498672420"
+      "modified": "1498672420",
+      "phones": [
+		{
+			"id":"7069855e-72e1-4dd9-a5b0-7bdb5d72ecdc",
+			"type":"home",
+			"number":"555-555-5555"
+		}
+	]
     },
     {
       "id": "82ec8f6e-3abf-4176-a0a0-4b63c38dad16",
