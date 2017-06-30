@@ -66,6 +66,12 @@
       "name": "Jill Doe",
       "active": "true",
       "modified": "1498760134"
+    },
+    {
+      "id": "9308d12f-997d-4773-ab3e-f9ff10755207",
+      "name": "Another Dude",
+      "active": "true",
+      "modified": "1498831940"
     }
   ]
 }
